@@ -1,5 +1,12 @@
 # diceapp
 
+
+
+https://user-images.githubusercontent.com/52095892/134808042-dc09f238-2d65-422a-884d-0d874d92e37e.mp4
+
+
+
+
 A new Flutter project.
 
 ## Getting Started
